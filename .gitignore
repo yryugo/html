@@ -1,0 +1,22 @@
+# MacOS
+.DS_Store
+
+# WordPress
+wp-content/uploads
+wp-content/cache
+
+# Blog
+blog/wp-content/uploads
+blog/wp-content/cache
+
+# School
+school/wp-content/uploads
+school/wp-content/cache
+
+# System
+system/wp-content/uploads
+system/wp-content/cache
+
+# composer 関連ファイル
+composer.lock
+vendor/
